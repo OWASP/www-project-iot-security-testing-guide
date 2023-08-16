@@ -5,7 +5,7 @@ title: OWASP IoT Security Testing Guide
 tags: example-tag
 level: 2
 type: documentation
-pitch: A very brief, one-line description of your project
+pitch: The OWASP IoT Security Testing Guide provides a comprehensive methodology for penetration tests in the IoT field.
 
 ---
 
@@ -55,18 +55,18 @@ The methodology should:
 
 As the name suggests, this IoT security testing guide is mainly intended to be used by penetration testers and security analysts in the IoT, hardware and embedded fields. However, others might benefit from the concepts and test cases introduced in this guide as well:
 
-## **Builder**
+## Builder
 
 - **Manufacturers of IoT devices** (e.g., architects, engineers, developers and managers) can use the contents of this guide to get an understanding of potential issues and vulnerabilities that might affect their products. Since vulnerable products can lead to various kinds of damages for the manufacturer (financial loss, loss of reputation, etc.), there should be an interest in understanding how a certain product could be vulnerable in any given context or operational environment. By increasing the awareness and understanding early on in the design and development process, it is possible to improve product security in the long term while keeping the respective costs as low as possible.
 
-## **Breaker**
+## Breaker
 
 - **Penetration testers and bug bounty researchers** can use the concepts introduced in this guide to plan their tests and define the test scope, test conditions and test approach. While performing the test, the test cases in this guide can be used:
   - a) as a guide that shows which aspects should be tested, why they should be tested, how they should be tested and how potential issues could be mitigated as well as
   - b) to  keep track of the test completion status, making sure that all relevant aspects have been examined.
 - **Security consultants and security managers** can use this guide and its contents as a common foundation for working with their teams and clients as well as communicating with any of the stakeholders mentioned above. Especially the terminology and structure defined in this guide should help to facilitate collaboration across different teams and organizations.
 
-## **Defender**
+## Defender
 
 - **Operators of IoT devices** (e.g., users) can use this guide in a similar fashion as manufacturers. However, the operators who run IoT devices usually have no or very little influence on the design and development process. Hence, their focus is more directed towards understanding how a device might be vulnerable in a particular operational environment and how this environment could be affected in case that the device is compromised or insecure.
 
