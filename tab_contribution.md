@@ -1,6 +1,6 @@
 ---
-title: Contribution
-displaytext: Contribution Guide
+title: Contributing
+displaytext: Contributing Guide
 layout:  null
 tab: true
 order: 2
