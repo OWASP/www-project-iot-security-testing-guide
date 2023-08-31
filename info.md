@@ -1,17 +1,35 @@
-### IoT Security Testing Guide Information
-* [Incubator Project](#)
-* [Type of Project](#)
-* [Version 0.0.0](#)
-* [Builder](#)
-* [Breaker](#)
+### Project Classification
+* Incubator Project
+* Documentation
+* Version 0.0.1
+* Breaker
+* Builder
 
-### Downloads or Social Links
-* [Download](#)
-* [Meetup](#)
+### Project Links
+* [Code of Conduct][owasp_coc]
+* [GitHub Repository][istg_github]
 
-### Code Repository
-* [repo](#)
+### Getting Involved
 
-### Change Log
-* [changes](#)
+* [OWASP Contributing Guidelines][owasp_contributing]
+* [ISTG Project Contributing Guide][istg_contributing]
 
+### Social
+
+* [Join OWASP Slack][owasp_slack]
+* Channel: [#istg][istg_slack]
+
+### License
+
+[![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa] CC BY-SA 4.0
+
+
+
+[owasp_coc]: https://owasp.org/www-policy/operational/code-of-conduct
+[owasp_contributing]: https://owasp.org/www-project-iot-security-testing-guide/CONTRIBUTING.md
+[owasp_slack]: https://owasp.org/slack/invite
+[istg_github]: https://github.com/OWASP/owasp-istg
+[istg_contributing]: https://owasp.org/www-project-iot-security-testing-guide/#div-contribution
+[istg_slack]: https://owasp.slack.com/archives/C05QA92T1JP
+[cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
+[cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
