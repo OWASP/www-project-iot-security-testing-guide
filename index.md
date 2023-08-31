@@ -54,7 +54,7 @@ Test cases were derived from the following public sources:
 [owasp_contributing]: https://owasp.org/www-project-iot-security-testing-guide/CONTRIBUTING.md
 [owasp_slack]: https://owasp.org/slack/invite
 [istg_github]: https://github.com/OWASP/owasp-istg
-[istg_contributing]: https://owasp.org/www-project-iot-security-testing-guide/#div-contribution
+[istg_contributing]: https://owasp.org/www-project-iot-security-testing-guide/#div-contributing
 [istg_acknowledgements]: https://owasp.org/www-project-iot-security-testing-guide/#div-acknowledgements
 [istg_slack]: https://owasp.slack.com/archives/C05QA92T1JP
 [cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
