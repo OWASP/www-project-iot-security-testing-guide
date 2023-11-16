@@ -23,7 +23,7 @@ Please check the [OWASP Contributing Guidelines][owasp_contributing] as well as 
 
 ## Latest Version
 
-You can find the latest version of this guide in the [GitHub Repository][istg_github].
+You can find the latest version of this guide [here][istg_online] or in the [GitHub Repository][istg_github].
 
 
 
@@ -54,6 +54,7 @@ Test cases were derived from the following public sources:
 [owasp_contributing]: https://owasp.org/www-project-iot-security-testing-guide/CONTRIBUTING.md
 [owasp_slack]: https://owasp.org/slack/invite
 [istg_github]: https://github.com/OWASP/owasp-istg
+[istg_online]: https://owasp.org/owasp-istg/
 [istg_contributing]: https://owasp.org/www-project-iot-security-testing-guide/#div-contributing
 [istg_acknowledgements]: https://owasp.org/www-project-iot-security-testing-guide/#div-acknowledgements
 [istg_slack]: https://owasp.slack.com/archives/C05QA92T1JP

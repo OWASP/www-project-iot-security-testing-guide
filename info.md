@@ -8,6 +8,7 @@
 ### Project Links
 * [Code of Conduct][owasp_coc]
 * [GitHub Repository][istg_github]
+* [Online Version][istg_online]
 
 ### Getting Involved
 
@@ -29,6 +30,7 @@
 [owasp_contributing]: https://owasp.org/www-project-iot-security-testing-guide/CONTRIBUTING.md
 [owasp_slack]: https://owasp.org/slack/invite
 [istg_github]: https://github.com/OWASP/owasp-istg
+[istg_online]: https://owasp.org/owasp-istg/
 [istg_contributing]: https://owasp.org/www-project-iot-security-testing-guide/#div-contributing
 [istg_slack]: https://owasp.slack.com/archives/C05QA92T1JP
 [cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
