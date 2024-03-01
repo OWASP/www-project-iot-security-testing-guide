@@ -1,7 +1,7 @@
 ### Project Classification
 * Incubator Project
 * Documentation
-* Version 0.0.1
+* [Version 1.0.0](https://github.com/OWASP/owasp-istg/releases/tag/v1.0.0)
 * Breaker
 * Builder
 
