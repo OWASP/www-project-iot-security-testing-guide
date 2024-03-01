@@ -9,8 +9,7 @@ pitch: The OWASP IoT Security Testing Guide provides a comprehensive methodology
 
 ---
 
-The IoT Security Testing Guide (ISTG) provides a comprehensive methodology for penetration tests in the IoT field, offering flexibility to adapt innovations, and developments in the IoT market while still ensuring comparability of test results. This guide provides an understanding of communication between manufacturers and operators of IoT devices, facilitated by establishing a common terminology. Its methodology, underlying models, and the catalog of test cases present tools that can be used separately and in conjunction with each other.
-
+The OWASP IoT Security Testing Guide (ISTG) provides a comprehensive methodology for penetration tests in the IoT field, offering flexibility to adapt innovations, and developments in the IoT market while still ensuring comparability of test results. This guide provides an understanding of communication between manufacturers and operators of IoT devices, facilitated by establishing a common terminology. Its methodology, underlying models, and the catalog of test cases present tools that can be used separately and in conjunction with each other.
 
 ## Contributions
 
